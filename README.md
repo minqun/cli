@@ -1,5 +1,5 @@
 #安装
-npm i -g @batmo/cli-bat
+npm i -g @batmo/cli
 
 
 ##使用
